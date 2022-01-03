@@ -1,0 +1,33 @@
+{
+  "default_branch": "smooth-menu",
+  "branches": [
+    "html-css-js-ecommerce",
+    "mern-ecommerce-app",
+    "next-food-ordering-app",
+    "next-pizza-ui",
+    "react-face-detection",
+    "react-search",
+    "redux",
+    "smooth-menu"
+  ],
+  "parent": {
+    "html-css-js-ecommerce": "smooth-menu",
+    "mern-ecommerce-app": "smooth-menu",
+    "next-food-ordering-app": "smooth-menu",
+    "next-pizza-ui": "smooth-menu",
+    "react-face-detection": "smooth-menu",
+    "react-search": "smooth-menu",
+    "redux": "smooth-menu",
+    "smooth-menu": null
+  },
+  "order": [
+    "smooth-menu",
+    "html-css-js-ecommerce",
+    "mern-ecommerce-app",
+    "next-food-ordering-app",
+    "next-pizza-ui",
+    "react-face-detection",
+    "react-search",
+    "redux"
+  ]
+}
